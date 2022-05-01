@@ -1,0 +1,62 @@
+#form{
+    padding:0 12% 3% 12% ;
+}
+.title{
+    font-size: 130px;
+    /* latter: spacing 30px; */
+
+}
+.thiel{
+    font-size: 140px;
+    font-weight: bolder;
+}
+.Apply-haeding{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 35px;
+}
+.apply{
+    padding-right: 130px;
+}
+.Sign-in{
+    /* padding-left: 50px; */
+}
+
+.eml{
+    padding: .75% 2%;
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid gray;
+    margin:10px 0;
+}
+.psd{
+    padding: .75% 1.2%;
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid gray;
+    margin:10px 0;
+}
+
+.btnn{
+    margin-top: 10px;
+}
+
+hr{
+    margin-bottom: 40px;
+}
+.forgot{
+    position: relative;
+    left: 340px;
+    font-size: small;
+    color: blue;
+}
+.btn-signup{
+    border: 1px solid gray;
+    margin-top: 10px;
+}
+.need{
+    margin: 20px 0;
+}
+h6{
+    font-size: 25px;
+}
